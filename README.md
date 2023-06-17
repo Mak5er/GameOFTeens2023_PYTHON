@@ -18,5 +18,5 @@ This project is a chatbot created for the "GoITeens" hackathon by Team "Кібе
     /start - start bot and start selecting optimal tariff
     /language - change language
 # The project was created by: 
-    Maksym Reva
-    Danil Denha
+    Maksym Reva Mak5er
+    Danil Denha danildenha
